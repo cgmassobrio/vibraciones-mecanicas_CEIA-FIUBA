@@ -1,2 +1,2 @@
-# vibraciones-mecanicas_CEIA-FIUBA
+# Estudio de vibraciones mecánicas
 Repositorio del trabajo final de CEIA
