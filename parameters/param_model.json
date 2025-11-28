@@ -1,0 +1,28 @@
+{
+    "physics":{
+            "R02": 0.0123,
+            "gamma_bs": 3.24,
+            "x_i": [0.5, 0.25, 0.5, 0.75],
+            "K_L": 0.0,
+            "K_R": 0.0,
+            "K_tL": 0.0,
+            "K_tR": 0.0,
+            "Fa_m": 0.0,
+            "C": 0.0,
+            "Fa_p": 1, 
+            "M_1" : 0.0,
+            "K_1": 0.0,
+            "K_t1": 0.0,
+            "P_av": 0.0,
+            "sigma_i": [0.1, 0.05, 0.01, 0.05]
+        },
+   "parameters":{
+            "LB": 0.0,
+            "LU": 1.0,
+            "InputDimension": 2,
+            "OutputDimension": 2,
+            "NumberOfNeurons": 40,
+            "NumberOfHiddenLayers": 4,
+            "ActivationFunction": "nn.Tanh()"
+   }     
+}
