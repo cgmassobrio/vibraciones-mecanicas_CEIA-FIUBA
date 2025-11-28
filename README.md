@@ -7,8 +7,8 @@ Repositorio del trabajo final de CEIA "Desarrollo de modelo para identificar cam
 
 Dado que el desarrollo de cada modelo físico presentó algunas particularidades, el repositorio se organizó en las siguientes ramas:
 
-- modelo_especifico: desarrollo de la implementación para resolver el caso del modelo físico específico.
-- modelo_general: desarrollo de la implementación para resolver el caso del modelo físico general.
+- [modelo_especifico](https://github.com/cgmassobrio/vibraciones-mecanicas_CEIA-FIUBA/tree/modelo_especifico): desarrollo de la implementación para resolver el caso del modelo físico específico.
+- [modelo_general](https://github.com/cgmassobrio/vibraciones-mecanicas_CEIA-FIUBA/tree/modelo_general): desarrollo de la implementación para resolver el caso del modelo físico general.
 
 
 
